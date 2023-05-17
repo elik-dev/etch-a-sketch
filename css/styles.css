@@ -70,11 +70,12 @@ h1 {
 
 .menu {
     justify-content: space-evenly;
-    padding: 8px;
+    gap: 16px;
+    padding: 16px;
 }
 
 .option {
-    max-width: 64px;
+    max-width: 48px;
     transition: all ease-in-out 0.1s;
 }
 
