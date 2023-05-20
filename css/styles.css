@@ -7,7 +7,6 @@ html {
 *::before,
 *::after {
     box-sizing: inherit;
-    /* border: solid #D65A31 1px; */
 }
 
 body {
@@ -56,13 +55,12 @@ h1 {
     margin: 0;
 }
 
-/* etch-a-sketch styles */
+/* sketchbook styles */
 .menu,
 .container {
     margin: auto;
     max-width: 720px;
     width: 100%;
-    /* background-color: #EEEEEE; */
     display: flex;
     box-shadow: 0 0px 8px rgba(34, 40, 49, 0.5);
     border-radius: 16px
