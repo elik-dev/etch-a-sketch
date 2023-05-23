@@ -1,1 +1,1 @@
-# etch-a-sketch
+# sketchpad
