@@ -50,13 +50,13 @@ function resetGrid() {
 // draw section
 function drawBlack(event) {
   if (event.target.classList == "cell") {
-    event.target.style.backgroundColor = "black";
+    event.target.style.backgroundColor = "rgb(0, 0, 0)";
   }
 }
 
 function drawWhite(event) {
   if (event.target.classList == "cell") {
-    event.target.style.backgroundColor = "white";
+    event.target.style.backgroundColor = "rgb(255, 255, 255)";
   }
 }
 
