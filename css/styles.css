@@ -82,7 +82,7 @@ h1 {
 
 .option:hover {
     scale: 1.05;
-    background-color:#cdd3db;
+    background-color: #cdd3db;
 }
 
 .option:active {
@@ -90,7 +90,7 @@ h1 {
 }
 
 .active-mode {
-    background-color:#cdd3db;
+    background-color: #cdd3db;
 }
 
 .option img {
